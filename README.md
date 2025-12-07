@@ -1,0 +1,2 @@
+# static
+Static Configuration/Assets
