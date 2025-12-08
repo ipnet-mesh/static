@@ -7,11 +7,11 @@ members:
     description: IPNet Founder
   - member_id: markab
     name: Mark
-    callsign: Mark
+    callsign: markab TBE
     role: member
     description: IPNet Member
   - member_id: ccz
-    name: CCZ
+    name: Mark
     callsign: CCZ
     role: member
     description: IPNet Member
