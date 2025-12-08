@@ -193,14 +193,14 @@ cd4497d3c2fa2a1df565ae9d1cb8bf87aeaded34059421b63abeaec203f9eda8:
   role: infra
 
 # craig
-8accb6d0189ccaffb745ba54793e7fe3edd515edb45554325d957e48c1b9f3b3:
-  name: ip4-rep03.ipnt.uk
-  description: IP4 Area
+98e1bc7247231c3c57c474029addcceb17d61d18023ed636fd4e80c0e85601f5:
+  name: ip3-rep07.ipnt.uk
+  description: Nacton Road
   member_id: craig
-  lat: 52.058
-  lon: 1.165
-  hardware: Heltec v3
-  antenna: Generic Whip
+  lat: 52.04461
+  lon: 1.118051
+  hardware: Heltec Lora32 v3
+  antenna: 8dBi Omni
   elevation: 30
   role: infra
 
