@@ -238,10 +238,10 @@ bd7b5ac75f660675b39f368e1dbb6d1dbcefd8bd7a170e21a942954f67c8bf52:
 # craig
 85d09e3309acbbd2f4ddb66471971d7df1741a361d0f0520146476d6f846991f:
   name: ip12-rep01.ipnt.uk
-  description: Nacton Road
+  description: Bredfield Road, Woodbridge
   member_id: craig
-  lat: 52.044616
-  lon: 1.180511
+  lat: 52.1032
+  lon: 1.3143
   hardware: Heltec V3
   antenna: Generic 5dBi Omni
   elevation: 15
