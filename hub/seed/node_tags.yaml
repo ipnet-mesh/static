@@ -63,18 +63,6 @@
   elevation: 25
   role: infra
 
-# louis
-30121dc60362c633c457ffa18f49b3e1d6823402c33709f32d7df70612250b96:
-  name: bot.ipnt.uk
-  description: Fountains Road
-  member_id: louis
-  lat: 52.0354539
-  lon: 1.1295338
-  hardware: Heltec V3
-  antenna: Generic 5dBi Whip
-  elevation: 25
-  role: infra
-
 # ========
 # IP3 AREA
 # ========
