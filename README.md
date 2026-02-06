@@ -13,3 +13,4 @@ This repository contains static configuration and other assets used throughout t
 **Light Logo** (for dark backgrounds):
 
 ![IPNet Light Logo](images/logos/logo-white.svg)
+
